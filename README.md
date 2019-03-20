@@ -1,6 +1,6 @@
 # Project Name
 
-*[Demo](https://link-to-github-pages.com)*
+*[Demo](https://sorumond.github.io/sports-app-landing/)*
 
 ## Description
 
